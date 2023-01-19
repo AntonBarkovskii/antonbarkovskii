@@ -1,6 +1,8 @@
 ![Header](https://github.com/AntonBarkovskii/antonbarkovskii/blob/master/assets/header.jpg)
 
 ## I'm a QA Engineer
+## My CV
+[Link to my CV]()
 
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
