@@ -17,7 +17,7 @@
 
 ### Testing Documentation
 - [Test-Cases](https://github.com/AntonBarkovskii/test-cases.git)
-
+- [Bug-Reports](https://github.com/AntonBarkovskii/bug-reports.git)
 
 ## Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/tonybarko)
