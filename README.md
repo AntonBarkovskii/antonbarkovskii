@@ -1,4 +1,4 @@
-![Header](https://github.com/AntonBarkovskii/antonbarkovskii/blob/master/assets/header.jpg)
+[![Header](https://github.com/AntonBarkovskii/antonbarkovskii/blob/master/assets/header.jpg)]
 
 About me
 
