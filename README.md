@@ -2,7 +2,7 @@
 
 ## I'm a QA Engineer
 ## My CV
-[Link to my CV]
+[Link to my CV](https://drive.google.com/file/d/19QT9XRvOAOJIX9qp-aiRgjZz1WhSgGil/view?usp=sharing)
 
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -21,6 +21,7 @@
 - [Test-Cases](https://github.com/AntonBarkovskii/test-cases.git)
 - [Bug-Reports](https://github.com/AntonBarkovskii/bug-reports.git)
 - [Postman Collections](https://github.com/AntonBarkovskii/postman.git)
+- [Check-list KeyCar] (https://docs.google.com/spreadsheets/d/1b1ABCxz5yX7XHVMvJ5Jynuo7JpfA8a43UdvzDqhiBM0/edit?usp=sharing)
 
 ## Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/tonybarko)
