@@ -2,8 +2,8 @@
 
 ## I'm a QA Engineer
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/19QT9XRvOAOJIX9qp-aiRgjZz1WhSgGil/view?usp=sharing)
-[Link to my certificate](https://drive.google.com/file/d/1qFnnZjc7QrGr31X3mlzE-vohUzl9L61w/view?usp=sharing)
+- [Link to my CV](https://drive.google.com/file/d/19QT9XRvOAOJIX9qp-aiRgjZz1WhSgGil/view?usp=sharing)
+- [Link to my certificate](https://drive.google.com/file/d/1qFnnZjc7QrGr31X3mlzE-vohUzl9L61w/view?usp=sharing)
 
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
